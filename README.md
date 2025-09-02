@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saksham Dubey</h1>
 <h3 align="center">A passionate CSE Student at La Trobe Majoring in AI</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bingeeverything" alt="bingeeverything" /></a> </p>
-
 - 🔭 I’m currently working on [Solving a leetcode problem daily](https://github.com/Bingeeverything/leetcode-solutions)
 
 - 🌱 I’m currently learning **Python Libraries, and machine learning frameworks**
 
-- 💬 Ask me about **Anything **
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **sakshamdubey05@gmail.com**
 
