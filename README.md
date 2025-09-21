@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Dubey</h1>
 <h3 align="center">A passionate CSE Student at La Trobe Majoring in AI</h3>
 
-- 🔭 I’m currently working on [Solving a leetcode problem daily](https://github.com/Bingeeverything/leetcode-solutions)
+- 🔭 I’m currently working on [Carbon Footprint from Receipt Calculator](https://github.com/Bingeeverything/Eco_Basket)
 
 - 🌱 I’m currently learning **Python Libraries, and machine learning frameworks**
 
