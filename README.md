@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Saksham Dubey</h1>
-<h3 align="center">A passionate CSE Student at La Trobe Majoring in AI</h3>
+<h3 align="center">CS student at La Trobe University (AI major) and Software Engineer Intern at Core dna in Melbourne. I like hard problems, especially ones that point at the sky.</h3>
 
-- 🔭 I’m currently working on [Star Gazing and Hiking](https://github.com/Bingeeverything/StarSpot)
+## 🛰️ What I'm building
 
-- 🌱 I’m currently learning **Python Libraries, and machine learning frameworks**
+- **[[Satellite Tracker](https://github.com/Bingeeverything/satellite-tracker)]**: identifies satellites in night-sky photos taken on my phone, using computer vision, plate solving and SGP4 orbit propagation. *(In progress)*
+- **[StarSpot](https://github.com/Bingeeverything/StarSpot)**: a live Streamlit app that tells you whether a mountain spot is worth the trip for stargazing, using cloud cover at summit height, moon phase and the dark-sky window. [[Live demo](https://bingeeverything-starspot-app-h6aylw.streamlit.app)]
+## 🧠 How I work
 
-- 💬 Ask me about **Anything**
+I write the code for my personal projects by hand, and my commit messages record what I learned while debugging. At work I use AI-assisted workflows, owning the spec, architecture and review.
 
-- 📫 How to reach me **sakshamdubey05@gmail.com**
+## 🛠️ Tools
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sakshamdubey-/](https://www.linkedin.com/in/sakshamdubey-/)
+Python · NumPy · pandas · OpenCV · Astropy · Skyfield · Streamlit · scikit-learn · SQL · HTML/CSS · Git
+
+## 📫 Find me
+
+[(https://www.linkedin.com/in/sakshamdubey-/] · sakshamdubey05@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
